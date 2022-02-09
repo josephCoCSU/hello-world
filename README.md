@@ -1,2 +1,2 @@
 # hello-world
-A tutorial repository
+A tutorial repository for a software developer
